@@ -1,2 +1,2 @@
-# Dissertation-Doc
-A repo to store my dissertation document
+# Dissertation
+A repo to store my dissertation document and supporting files
