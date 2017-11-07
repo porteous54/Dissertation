@@ -1,0 +1,14 @@
+Wrap up background, it only needs to be enough so that I can do the work
+ - Sections on Available packages and R package creation counts towards literature
+ 
+ For GP section I only need to cover tree based
+  - Mention other types that exist but do not need to go in depth.
+  
+  Decided for section 4 to be design and go into depth of chosen area
+  
+  Requirements will be technical this time
+   - for example "the package shall allow users to define the function set"
+   
+   It's better to get something for every section than to do a few sections well
+   
+   Michael is happy to give me feedback as long as I have a draft to him by week 11.
