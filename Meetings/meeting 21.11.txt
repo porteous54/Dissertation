@@ -1,0 +1,17 @@
+Can send anything to Michael that I have and he is happy to look over it
+
+Leave operators out of section as its not necessary
+
+Add in other CGP implementations
+
+Fix issues he mentioned in email
+
+For risks I am to include illness and other personal issues
+
+Add a stage in my plan for improving software
+
+Change colouring of bars in gantt chart
+
+PLES issues
+	- are more directed at projects with usability tests
+	- for legal mention my software licence and not liable for it being used
