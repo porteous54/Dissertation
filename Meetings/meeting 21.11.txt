@@ -15,3 +15,5 @@ Change colouring of bars in gantt chart
 PLES issues
 	- are more directed at projects with usability tests
 	- for legal mention my software licence and not liable for it being used
+
+Use doodlepoll to setup meeting with Michael and Katrin
