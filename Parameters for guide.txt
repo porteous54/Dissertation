@@ -1,0 +1,10 @@
+
+
+set.seed(4)
+pop <- cgp(dataset = read.csv("./data/x_squared_minus_y.csv"),
+           model = output ~ x + y,
+           maxGenerations = 1000,
+           rowsFuncNodes = 5,
+           colsFuncNodes = 5,
+           levelsBack = 2,
+           popSize = 5)
